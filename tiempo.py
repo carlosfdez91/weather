@@ -2,7 +2,7 @@
 import requests
 import json
 
-lista = {"1":"Almeria","2":"Cadiz","3":"Cordoba","4":"Granada","5":"Huelva","6":"Jaen","7":"Malaga","8":"Sevilla"}
+lista = {"1":"Almería","2":"Cádiz","3":"Córdoba","4":"Granada","5":"Huelva","6":"Jaén","7":"Málaga","8":"Sevilla"}
 
 ciudades = raw_input("""1. Almería
 2. Cádiz
