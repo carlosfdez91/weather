@@ -2,7 +2,7 @@
 import requests
 import json
 
-lista = {"1":"Almería","2":"Cádiz","3":"Córdoba","4":"Granada","5":"Huelva","6":"Jaén","7":"Málaga","8":"Sevilla","9":"Utrera"}
+lista = {"1":"Almería","2":"Cádiz","3":"Córdoba","4":"Granada","5":"Huelva","6":"Jaén","7":"Málaga","8":"Sevilla"}
 
 ciudades = raw_input("""1. Almería
 2. Cádiz
@@ -12,7 +12,6 @@ ciudades = raw_input("""1. Almería
 6. Jaén
 7. Málaga
 8. Sevilla
-9. Utrera
 
 ¿De qué ciudad quieres saber la temperatura actual? """)
 
